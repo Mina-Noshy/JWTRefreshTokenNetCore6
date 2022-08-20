@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mydDm588P8pI8TeORdjVOpqFIw/Ec9USt0rbtAbc9ak=",
+  "Source": "WebAppService",
+  "BasePath": "_content/WebAppService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
